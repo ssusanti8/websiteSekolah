@@ -913,3 +913,31 @@ footer a{
 #instafeed > div:nth-last-child(-n+3) {
     margin-top: 15px;
 }
+
+/* BUAT TABEL PROFIL */
+.tabel1 {
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #f2f5f7;
+}
+ 
+.tabel1 tr th{
+    background: #35A9DB;
+    color: #fff;
+    font-weight: normal;
+}
+ 
+.tabel1, th, td {
+    padding: 10px 20px;
+    text-align: center;
+}
+ 
+.tabel1 tr:hover {
+    background-color: #f5f5f5;
+}
+ 
+.tabel1 tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

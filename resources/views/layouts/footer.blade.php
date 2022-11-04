@@ -39,17 +39,25 @@
                                 <h4>EXPLORE</h4>
                                 <ul class="list-unstyled footer-links">
                                     <li><a class="active">Beranda</a></li>
-                                    <li><a href="profil.blade.php">Profil</a></li>
-                                    <li><a href="ekstrakulikuler.blade.php">Ekstrakulikuler</a></li>
-                                    <li><a href="galeri.blade.php">Galeri</a></li>
-                                    <li><a href="ruangan.blade.php">Ruangan</a></li>
-                                    <li><a href="kontak.blade.php">Kontak</a></li>
+                                    <li><a href="profil">Profil</a></li>
+                                    <li><a href="ekstrakulikuler">Ekstrakulikuler</a></li>
+                                    <li><a href="galeri">Galeri</a></li>
+                                    <li><a href="ruangan">Ruangan</a></li>
+                                    <li><a href="kontak">Kontak</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-12 col-xs-12">
                             <div class="footer-details">
-                                <h4>Now On Instagram</h4>
+                                <h4>SMASA BERKIBAR</h4>
+                                <ul class="list-unstyled footer-links">
+                                    <li>Berkarakter</li>
+                                    <li>Kreatif</li>
+                                    <li>Inovatif</li>
+                                    <li>Berprestasi</li>
+                                    <li>Aktif</li>
+                                    <li>Religius</li>
+                                </ul>
                                 <div class="row">
                                     <div class="instagram-images">
                                         <div id="instafeed"></div>

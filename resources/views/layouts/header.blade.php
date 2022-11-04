@@ -24,10 +24,10 @@
                                     </div>
                                     <div class="collapse navigation navbar-collapse navbar-ex1-collapse remove-space">
                                         <ul class="list-unstyled nav1 cl-effect-10">
-                                            <li><a  data-hover="Beranda" class="active"><span>Beranda</span></a></li>
-                                            <li><a data-hover="Profil"  href="profil.blade.php"><span>Profil</span></a></li>
-                                            <li><a data-hover="Ekstrakulikuler"  href="ekstrakulikuler.blade.php"><span>Ekstrakulikuler</span></a></li>
-                                            <li><a data-hover="Galeri"  href="galeri.blade.php"><span>Galeri</span></a></li>
+                                            <li><a  data-hover="Beranda" href="beranda"><span>Beranda</span></a></li>
+                                            <li><a data-hover="Profil"  href="profil"><span>Profil</span></a></li>
+                                            <li><a data-hover="Ekstrakulikuler"  href="ekstrakulikuler"><span>Ekstrakulikuler</span></a></li>
+                                            <li><a data-hover="Galeri"  href="galeri"><span>Galeri</span></a></li>
                                             <li><a data-hover="Ruangan" href="ruangan.blade.php"><span>Ruangan</span></a></li>
                                             <li><a data-hover="Kontak" href="kontak.blade.php"><span>Kontak</span></a></li>
                                         </ul>

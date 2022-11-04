@@ -2,6 +2,9 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\BerandaController;
+use App\Http\Controllers\ProfilController;
+use App\Http\Controllers\EkstrakulikulerController;
+use App\Http\Controllers\GaleriController;
 
 /*
 |--------------------------------------------------------------------------
@@ -20,3 +23,6 @@ Route::get('/', function () {
 
 
 Route::resource('/beranda', BerandaController::class);
+Route::resource('/profil', ProfilController::class);
+Route::resource('/ekstrakulikuler', EkstrakulikulerController::class);
+Route::resource('/galeri', GaleriController::class);
