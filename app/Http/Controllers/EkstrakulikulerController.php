@@ -14,6 +14,9 @@ class EkstrakulikulerController extends Controller
     public function index()
     {
         //
+        return view('ekstrakulikuler', [
+            'title' => 'Ekstrakulikuler'
+        ]);
     }
 
     /**
